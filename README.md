@@ -1,5 +1,3 @@
-# used_car_price_prediction_by_regression
-
 # 🚗 Used Car Price Prediction by Regression
 
 본 프로젝트는 중고차의 가격에 영향을 미치는 주요 요인을 식별하고, 이를 바탕으로 회귀 분석 모델을 통해 중고차 가격을 예측하는 것을 목표로 합니다. 실제 중고차 거래 플랫폼에서 수집한 데이터를 기반으로 전처리, EDA, 회귀모델 구축, 진단, 해석의 전 과정을 포함하고 있습니다.
