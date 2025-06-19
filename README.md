@@ -61,7 +61,7 @@
 
 ## 🔗 데이터 및 참고 자료
 
-- 🔸 분석 데이터 출처:  
+- 🔸 분석 데이터 출처: 
   [Used Car Price Prediction Dataset (Kaggle)](https://www.kaggle.com/datasets/ayaz11/used-car-price-prediction/data?select=car_web_scraped_dataset.csv)
 
 - 🔸 외부 참고 자료:  
